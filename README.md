@@ -9,13 +9,14 @@ Telkom University
 
 Aplikasi Pariwisata (VisitVista)
 Fungsi Utama:
-VisitVista adalah aplikasi berbasis terminal yang berfungsi untuk mengelola informasi tentang tempat wisata. Aplikasi ini memungkinkan pengguna untuk menambahkan, mengedit, menghapus, dan mencari tempat wisata berdasarkan beberapa kriteria seperti nama, lokasi, biaya, jarak, dan rating.
+VisitVista adalah aplikasi berbasis terminal yang berfungsi untuk mengelola informasi tentang tempat wisata. Aplikasi ini memungkinkan pengguna untuk menambahkan,
+mengedit, menghapus, dan mencari tempat wisata berdasarkan beberapa kriteria seperti nama, lokasi, biaya, jarak, dan rating.
 
 Fitur-Fitur Utama:
-
 Tambah Tempat Wisata: Pengguna dapat menambahkan informasi baru tentang tempat wisata, termasuk nama, lokasi, biaya, jarak, rating, dan deskripsi.
 
-Edit Tempat Wisata: Pengguna dapat mengedit informasi tempat wisata yang sudah ada berdasarkan ID. Aspek yang bisa diedit meliputi nama, lokasi, biaya, jarak, rating, dan deskripsi.
+Edit Tempat Wisata: Pengguna dapat mengedit informasi tempat wisata yang sudah ada berdasarkan ID. Aspek yang bisa diedit meliputi nama, lokasi, biaya, jarak, rating, dan
+deskripsi.
 
 Hapus Tempat Wisata: Pengguna dapat menghapus tempat wisata berdasarkan ID.
 
