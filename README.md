@@ -1,10 +1,16 @@
 # Aplikasi-Pariwisata
 Tugas Besar Mata Kuliah Algoritma Pemrograman
+
 Aisy Hafidzah Fadlillah
+
 NIM : 103012330160
+
 Muhamad Rafli
+
 NIM : 103012330532
+
 Kelas : IF-47-10
+
 Telkom University
 
 Aplikasi Pariwisata (VisitVista)
